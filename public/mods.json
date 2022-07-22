@@ -363,6 +363,13 @@
             "type": "Dependency",
             "required": true,
             "link": "https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum"
+        },
+        {
+            "id": "sophisticated-core",
+            "name": "Sophisticated Core",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core"
         }
     ]
 }

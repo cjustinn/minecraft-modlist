@@ -42,7 +42,7 @@ function App() {
       <h1 className="text-white font-bold text-5xl">Super Cool Minecraft Mod List</h1>
       <h3 className="text-gray-300 font-thin text-xl">Click any card to open the mod's CurseForge page</h3>
 
-      <p className="text-gray-100 font-thin text-md my-6 w-1/2 text-center">
+      <p className="text-gray-100 font-thin text-md my-6 md:w-1/2 xs:w-full text-center">
         I'm sure you'll be able to figure it out, but any mod that is marked as required is going to be server-side and client-side, so to join the server you'll <i>have</i> to have it installed.
         Anything that is <b>NOT</b> marked required is optional, and you can add them (or add any others) as you see fit since they're purely client-side.
       </p>
