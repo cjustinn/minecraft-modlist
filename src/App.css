@@ -21,11 +21,31 @@
 
   border-radius: 1rem;
 
-  transition-property: box-shadow, transform;
+  box-shadow: 0rem 0rem 0rem 0rem theme("colors.gray.300");
+
+  transition-property: box-shadow;
   transition-duration: 500ms;
 }
 
 .card:hover {
   box-shadow: 0rem 0rem 0rem 0.1rem theme("colors.gray.300");
-  /*transform: scale(1.05);*/
+}
+
+.button {
+  background-color: theme("colors.gray.600");
+
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border-width: 0px;
+
+  text-transform: uppercase;
+
+  transition-property: box-shadow;
+  transition-duration: 500ms;
+
+  box-shadow: 0rem 0rem 0rem 0rem theme("colors.gray.300");
+}
+
+.button:hover {
+  box-shadow: 0rem 0rem 0rem 0.1rem theme("colors.gray.300");
 }

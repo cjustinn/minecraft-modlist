@@ -46,6 +46,11 @@ function App() {
         I'm sure you'll be able to figure it out, but any mod that is marked as required is going to be server-side and client-side, so to join the server you'll <i>have</i> to have it installed.
         Anything that is <b>NOT</b> marked required is optional, and you can add them (or add any others) as you see fit since they're purely client-side.
       </p>
+
+      <div className="text-center w-full my-6">
+        <p className="text-white text-sm mb-3">Forge Version: <span>1.18.2-40.1.68</span></p>
+        <a target="_blank" href="https://drive.google.com/file/d/10dpq0dh-VCNcPayAXzyABZnu4BJeOPCx/view?usp=sharing" className="button text-white text-2xl font-thin">Download All Mods</a>
+      </div>
       
       <div className="text-start w-full">
         {
