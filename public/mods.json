@@ -1,0 +1,368 @@
+{
+    "mods": [
+        {
+            "id": "bonsai-trees",
+            "name": "Bonsai Trees 3",
+            "type": "Farming",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/bonsai-trees"
+        },
+        {
+            "id": "refined-storage",
+            "name": "Refined Storage",
+            "type": "Storage",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/refined-storage"
+        },
+        {
+            "id": "decorative-blocks",
+            "name": "Decorative Blocks",
+            "type": "Building",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks"
+        },
+        {
+            "id": "otbyg",
+            "name": "Oh The Biomes You'll Go",
+            "type": "World Generation",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go"
+        },
+        {
+            "id": "sophisticated-backpacks",
+            "name": "Sophisticated Backpacks",
+            "type": "Quality of Life",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks"
+        },
+        {
+            "id": "refined-storage-addons",
+            "name": "Refined Storage Addons",
+            "type": "Addon",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons"
+        },
+        {
+            "id": "macaw-fences",
+            "name": "Macaw's Fences and Walls",
+            "type": "Building",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls"
+        },
+        {
+            "id": "blockheads-farming",
+            "name": "Farming for Blockheads",
+            "type": "Farming",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads"
+        },
+        {
+            "id": "corail-tombstone",
+            "name": "Corail Tombstone",
+            "type": "Quality of Life",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone"
+        },
+        {
+            "id": "create",
+            "name": "Create",
+            "type": "Technology",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/create"
+        },
+        {
+            "id": "mekanism",
+            "name": "Mekanism",
+            "type": "Technology",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/mekanism"
+        },
+        {
+            "id": "mekanism-generators",
+            "name": "Mekanism: Generators",
+            "type": "Addon",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/mekanism-generators"
+        },
+        {
+            "id": "supplementaries",
+            "name": "Supplementaries",
+            "type": "Building",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/supplementaries"
+        },
+        {
+            "id": "jei",
+            "name": "Just Enough Items",
+            "type": "Quality of Life",
+            "required": false,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/jei"
+        },
+        {
+            "id": "mouse-tweaks",
+            "name": "Mouse Tweaks",
+            "type": "Quality of Life",
+            "required": false,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks"
+        },
+        {
+            "id": "appleskin",
+            "name": "AppleSkin",
+            "type": "Quality of Life",
+            "required": false,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/appleskin"
+        },
+        {
+            "id": "quark",
+            "name": "Quark",
+            "type": "Quality of Life",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/quark"
+        },
+        {
+            "id": "iron-chests",
+            "name": "Iron Chests",
+            "type": "Storage",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/iron-chests"
+        },
+        {
+            "id": "storage-drawers",
+            "name": "Storage Drawers",
+            "type": "Storage",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers"
+        },
+        {
+            "id": "blockheads-cooking",
+            "name": "Cooking for Blockheads",
+            "type": "Food",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads"
+        },
+        {
+            "id": "minecolonies",
+            "name": "MineColonies",
+            "type": "City Builder",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/minecolonies"
+        },
+        {
+            "id": "building-gadgets",
+            "name": "Building Gadgets",
+            "type": "Building",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets"
+        },
+        {
+            "id": "cosmetic-armor-reworked",
+            "name": "Cosmetic Armor Reworked",
+            "type": "Quality of Life",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked"
+        },
+        {
+            "id": "chisel-bits",
+            "name": "Chisel & Bits",
+            "type": "Building",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits"
+        },
+        {
+            "id": "farmers-delight",
+            "name": "Farmer's Delight",
+            "type": "Farming",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight"
+        },
+        {
+            "id": "tinkers",
+            "name": "Tinkers Construct",
+            "type": "Tools & Weapons",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct"
+        },
+        {
+            "id": "cc-tweaked",
+            "name": "CC: Tweaked",
+            "type": "Technology",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/cc-tweaked"
+        },
+        {
+            "id": "pams-core",
+            "name": "Pam's HarvestCraft 2 - Food Core",
+            "type": "Food",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core"
+        },
+        {
+            "id": "pams-crops",
+            "name": "Pam's HarvestCraft 2 - Crops",
+            "type": "Farming",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops"
+        },
+        {
+            "id": "pams-trees",
+            "name": "Pam's HarvestCraft 2 - Trees",
+            "type": "Farming",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees"
+        },
+        {
+            "id": "pams-foodextended",
+            "name": "Pam's HarvestCraft 2 - Food Extended",
+            "type": "Food",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended"
+        },
+        {
+            "id": "3d-skins",
+            "name": "Skin Layers 3D",
+            "type": "Cosmetic",
+            "required": false,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d"
+        },
+        {
+            "id": "goblin-traders",
+            "name": "Goblin Traders",
+            "type": "Quality of Life",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/goblin-traders"
+        },
+        {
+            "id": "jei-resources",
+            "name": "Just Enough Resources (JER)",
+            "type": "Addon",
+            "required": false,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer"
+        },
+        {
+            "id": "yung-dungeons",
+            "name": "YUNG's Better Dungeons",
+            "type": "World Generation",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons"
+        },
+        {
+            "id": "yung-strongholds",
+            "name": "YUNG's Better Strongholds",
+            "type": "World Generation",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds"
+        },
+        {
+            "id": "yung-mineshafts",
+            "name": "YUNG's Better Mineshafts",
+            "type": "World Generation",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge"
+        },
+        {
+            "id": "alex-mobs",
+            "name": "Alex's Mobs",
+            "type": "Mobs",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs"
+        },
+        {
+            "id": "extra-disks",
+            "name": "Extra Disks",
+            "type": "Addon",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/extra-disks"
+        },
+        {
+            "id": "libnonymous",
+            "name": "Libnonymous",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/libnonymous"
+        },
+        {
+            "id": "terrablender",
+            "name": "TerraBlender",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/terrablender"
+        },
+        {
+            "id": "balm",
+            "name": "Balm",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/balm"
+        },
+        {
+            "id": "flywheel",
+            "name": "Flywheel",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/flywheel"
+        },
+        {
+            "id": "selene-lib",
+            "name": "Moonlight Lib",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/selene"
+        },
+        {
+            "id": "autoreglib",
+            "name": "AutoRegLib",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/autoreglib"
+        },
+        {
+            "id": "mantle",
+            "name": "Mantle",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/mantle"
+        },
+        {
+            "id": "yung-api",
+            "name": "YUNG's API",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-api"
+        },
+        {
+            "id": "citadel",
+            "name": "Citadel",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/citadel"
+        },
+        {
+            "id": "structurize",
+            "name": "Structurize",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/structurize"
+        },
+        {
+            "id": "multipiston",
+            "name": "Multi-Piston",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/multi-piston"
+        },
+        {
+            "id": "blockui",
+            "name": "BlockUI",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/blockui"
+        },
+        {
+            "id": "domum-ornamentum",
+            "name": "Domum Ornamentum",
+            "type": "Dependency",
+            "required": true,
+            "link": "https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum"
+        }
+    ]
+}
