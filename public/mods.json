@@ -22,13 +22,6 @@
             "link": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks"
         },
         {
-            "id": "otbyg",
-            "name": "Oh The Biomes You'll Go",
-            "type": "World Generation",
-            "required": true,
-            "link": "https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go"
-        },
-        {
             "id": "sophisticated-backpacks",
             "name": "Sophisticated Backpacks",
             "type": "Quality of Life",

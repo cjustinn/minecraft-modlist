@@ -49,7 +49,7 @@ function App() {
 
       <div className="text-center w-full my-6">
         <p className="text-white text-sm mb-3">Forge Version: <span>1.18.2-40.1.68</span></p>
-        <a target="_blank" href="https://drive.google.com/file/d/10dpq0dh-VCNcPayAXzyABZnu4BJeOPCx/view?usp=sharing" className="button text-white text-2xl font-thin">Download All Mods</a>
+        <a target="_blank" href="https://drive.google.com/file/d/14by76BE2FfBOEWtyjxmNsmej1-mP62Mp/view?usp=sharing" className="button text-white text-2xl font-thin">Download All Mods</a>
       </div>
       
       <div className="text-start w-full">
